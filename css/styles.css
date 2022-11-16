@@ -1,0 +1,170 @@
+#title{
+  background-color: #ff4c68;
+}
+h1{
+  font-family:"Montserrat";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  margin-top:45px;
+  color: white;
+}
+h2{
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #fff;
+}
+em{
+  color: white;
+  font-family: "Montserrat";
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+.navbar-brand{
+  font-size: 38px;
+}
+.btn{
+  margin-top: 20px;
+  margin-left:10px;
+}
+.nav-item{
+  margin: 24px;
+  font-size: 19px;
+}
+.rotate_image {
+            -webkit-transform: rotate(29deg);
+            -moz-transform: rotate(29deg);
+            -ms-transform: rotate(29deg);
+            -o-transform: rotate(29deg);
+            transform: rotate(29deg);
+            height:630px;
+            width:31%;
+        }
+.fa-circle-check {
+ font-size: 55px;
+ color:  #ef8172;
+ margin-left:51px;
+ margin-top: 45px;
+ margin-bottom: 20px;
+}
+#features{
+  padding:170px 80px 170px 110px;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+}
+.fa-bullseye{
+  font-size: 55px;
+  color:  #ef8172;
+  margin-left:52px;
+  margin-top: 45px;
+  margin-bottom: 20px;
+}
+.fa-heart{
+  font-size: 55px;
+  color:   #ef8172;
+  margin-left:52px;
+  margin-top: 45px;
+  margin-bottom: 20px;
+}
+h3{
+  font-family: "montserrat";
+}
+.fa-circle-check:hover{
+  color: #ff4c68;
+}
+.fa-bullseye:hover{
+  color: #ff4c68;
+}
+.fa-heart:hover{
+  color: #ff4c68;
+}
+p{
+  color: #8f8f8f;
+}
+.carousel-item{
+  padding:7% 15%;
+}
+#testimonials{
+  text-align: center;
+  background-color:  #ef8172;
+}
+.dog{
+  width: 10%;
+  border-radius: 100%;
+}
+#press{
+  background-color:  #ef8172;
+  padding-bottom: 60px;
+  text-align: center;
+}
+.ppic{
+  margin: 3%;
+  width: 13%;
+}
+.h2s{
+  color: black;
+}
+#pricing{
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  text-align: center;
+}
+.price{
+  margin-left:25px;
+  margin-right:40px;
+  margin-top: 65px;
+  width: 400px;
+}
+.titl{
+  position: absolute;
+  z-index: 1;
+  left: 60%;
+}
+@media (max-width:1024px) {
+  .titl{
+    position: static;
+  }
+  #title{
+    text-align: center;
+  }
+  .rotate_image{
+    transform: rotate(0);
+    margin-top: 30px;
+    height: 430px;
+  }
+}
+#cta{
+  background-color: #ff4c68;
+  padding: 10% 15%;
+  text-align: center;
+}
+.h3s{
+  color: #fff;
+  font-family: "Montserrat";
+  font-weight: bolder;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+#footer{
+  padding: 4%;
+  text-align: center;
+}
+.fa-twitter{
+   margin: 10px;
+}
+.fa-facebook{
+  margin: 10px;
+}
+.fa-instagram{
+  margin: 10px;
+}
+.fa-envelope{
+  margin-right: 10px;
+}
+.copy{
+  margin:auto;
+}
